@@ -1,0 +1,9 @@
+D:\csharp_projects\si_1\CreateClass\CreateClass\bin\Release\netstandard2.0\CreateClass.deps.json
+D:\csharp_projects\si_1\CreateClass\CreateClass\bin\Release\netstandard2.0\CreateClass.dll
+D:\csharp_projects\si_1\CreateClass\CreateClass\bin\Release\netstandard2.0\CreateClass.pdb
+D:\csharp_projects\si_1\CreateClass\CreateClass\obj\Release\netstandard2.0\CreateClass.csprojAssemblyReference.cache
+D:\csharp_projects\si_1\CreateClass\CreateClass\obj\Release\netstandard2.0\CreateClass.csproj.CoreCompileInputs.cache
+D:\csharp_projects\si_1\CreateClass\CreateClass\obj\Release\netstandard2.0\CreateClass.AssemblyInfoInputs.cache
+D:\csharp_projects\si_1\CreateClass\CreateClass\obj\Release\netstandard2.0\CreateClass.AssemblyInfo.cs
+D:\csharp_projects\si_1\CreateClass\CreateClass\obj\Release\netstandard2.0\CreateClass.dll
+D:\csharp_projects\si_1\CreateClass\CreateClass\obj\Release\netstandard2.0\CreateClass.pdb

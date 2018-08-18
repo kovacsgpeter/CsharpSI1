@@ -1,0 +1,7 @@
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\obj\Debug\SortString.csprojAssemblyReference.cache
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\obj\Debug\SortString.csproj.CoreCompileInputs.cache
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\bin\Debug\SortString.exe.config
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\bin\Debug\SortString.exe
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\bin\Debug\SortString.pdb
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\obj\Debug\SortString.exe
+D:\csharp_projects\si_1\ConsoleApp1\ConsoleApp1\obj\Debug\SortString.pdb

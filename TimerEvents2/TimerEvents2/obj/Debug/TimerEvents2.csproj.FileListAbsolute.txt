@@ -1,0 +1,15 @@
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\bin\Debug\TimerEvents2.exe.config
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\bin\Debug\TimerEvents2.exe
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\bin\Debug\TimerEvents2.pdb
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.csprojAssemblyReference.cache
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\MainWindow.g.cs
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\App.g.cs
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2_MarkupCompile.cache
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2_MarkupCompile.lref
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\MainWindow.baml
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.g.resources
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.Properties.Resources.resources
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.csproj.GenerateResource.cache
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.csproj.CoreCompileInputs.cache
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.exe
+D:\csharp_projects\si_1\TimerEvents2\TimerEvents2\obj\Debug\TimerEvents2.pdb
